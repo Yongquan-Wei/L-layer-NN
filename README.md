@@ -1,2 +1,2 @@
-# L-layer NN
- L-layer NN to recognize cat
+# L-layers NN
+ L-layers NN to recognize cat
